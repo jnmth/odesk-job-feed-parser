@@ -1,4 +1,9 @@
 <?php
+/*---------------------
+
+This one has query in $_GET and saves all junk in one file which is no good except for testing
+
+---------------------*/
 
 $c1 = "Web+Development";
 $c2 = "Web+Design";
